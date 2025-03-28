@@ -1,4 +1,6 @@
 # This function adds two numbers
+# NAME: M McMahon
+
 def add(x, y):
     return x + y
 
@@ -39,7 +41,7 @@ while True:
 
         elif choice == '2':
             print("You enter code for #2 here")
-
+            # CODE HERE ENTERED
         elif choice == '3':
             print("You enter code for #3 here")
             
