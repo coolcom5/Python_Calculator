@@ -46,7 +46,7 @@ while True:
             print("You enter code for #3 here")
             
         elif choice == '4':
-            print("You enter code for #4 here")
+            print(num1, "/", num2, "=", devide(num1, num2))
             
         # check if user wants another calculation
         # break the while loop if answer is no
