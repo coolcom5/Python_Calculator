@@ -38,14 +38,14 @@ while True:
             print(num1, "+", num2, "=", add(num1, num2))
 
         elif choice == '2':
-            # Enter SUBTRACT code here
+            print("You enter code for #2 here")
 
         elif choice == '3':
-            # Enter MULTIPLY code here
-
+            print("You enter code for #3 here")
+            
         elif choice == '4':
-            # Enter DIVIDE code here
-        
+            print("You enter code for #4 here")
+            
         # check if user wants another calculation
         # break the while loop if answer is no
         next_calculation = input("Let's do next calculation? (yes/no): ")
