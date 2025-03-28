@@ -37,7 +37,7 @@ while True:
         if choice == '1':
             # Collaborator1 enter Code For ADD here
 	          # Include your Name/ID/Date in comments
- 	          #
+ 	          print(num1, "+", num2, "=", add(num1, num2))
         elif choice == '2':
             # Collaborator2 enter Code For SUBTRACT here
 	          # Include your Name/ID/Date in comments
